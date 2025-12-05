@@ -13,12 +13,12 @@ Building resilient systems for a decentralized future.
 ## About
 
 ```yaml
-role: Infrastructure Architect
+role: Consultant
 focus: 
   - Distributed Systems
   - Cloud Infrastructure
   - Web Applications
-philosophy: "Don't trust, verify."
+philosophy: "Cypherpunks write code."
 ```
 
 ---
@@ -47,10 +47,9 @@ philosophy: "Don't trust, verify."
 
 ## Interests
 
-- 🏗️ Infrastructure Architecture
+- 💼 Consulting
 - 🔗 Distributed Systems  
 - ⚡ Decentralized Networks
-- 🗽 Individual Sovereignty
 
 ---
 
