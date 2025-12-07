@@ -58,7 +58,7 @@ philosophy: "Cypherpunks write code."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tmymzkr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+### Coming Soon
 
 </div>
 
