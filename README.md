@@ -4,8 +4,6 @@
 
 **Principal Consultant** @ Oracle Japan
 
-Building resilient systems for a decentralized future.
-
 ---
 
 </div>
@@ -13,14 +11,11 @@ Building resilient systems for a decentralized future.
 ## About
 
 ```yaml
-role: Consultant
 focus: 
   - Distributed Systems
   - Cloud Infrastructure
   - Web Applications
-philosophy: "Cypherpunks write code."
 ```
-
 ---
 
 ## Tech Stack
